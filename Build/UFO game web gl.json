@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "UFO game web gl.data.unityweb",
+"asmCodeUrl": "UFO game web gl.asm.code.unityweb",
+"asmMemoryUrl": "UFO game web gl.asm.memory.unityweb",
+"asmFrameworkUrl": "UFO game web gl.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
